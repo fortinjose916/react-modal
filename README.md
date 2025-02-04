@@ -117,10 +117,10 @@ local development server using `npm start` or `yarn run start`.
 There are several demos hosted on [CodePen](https://codepen.io) which
 demonstrate various features of react-modal:
 
-* [Minimal example](https://codepen.io/claydiffrient/pen/KNxgav)
-* [Using setAppElement](https://codepen.io/claydiffrient/pen/ENegGJ)
-* [Using onRequestClose](https://codepen.io/claydiffrient/pen/KNjVBx)
-* [Using shouldCloseOnOverlayClick](https://codepen.io/claydiffrient/pen/woLzwo)
-* [Using inline styles](https://codepen.io/claydiffrient/pen/ZBmyKz)
-* [Using CSS classes for styling](https://codepen.io/claydiffrient/pen/KNjVrG)
-* [Customizing the default styles](https://codepen.io/claydiffrient/pen/pNXgqQ)
+* [Minimal example](https://codepen.io/fortinjose916/details/vEBwNqK)
+* [Using setAppElement](https://codepen.io/fortinjose916/pen/raBgOXR)
+* [Using onRequestClose](https://codepen.io/fortinjose916/pen/RNbmrbo)
+* [Using shouldCloseOnOverlayClick](https://codepen.io/fortinjose916/pen/pvzmgzO)
+* [Using inline styles](https://codepen.io/fortinjose916/pen/VYZOewa)
+* [Using CSS classes for styling](https://codepen.io/fortinjose916/pen/MYgdKWz)
+* [Customizing the default styles](https://codepen.io/fortinjose916/pen/NPKVxPY)
